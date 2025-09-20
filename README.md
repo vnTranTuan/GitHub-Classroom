@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nội dung trao đổi về ứng dụng GitHub Classroom
 
 
@@ -13,3 +14,8 @@ Bao gồm
 7. GitHub Classroom: Create group assignments
 8. GitHub Classroom: Next steps to get started with GitHub Classroom
 9. GitHub Classroom: GitHub Teacher Toolbox
+=======
+# Nội dung trao đổi về ứng dụng GitHub Classroom
+
+sinh viên Trần Van Huy
+>>>>>>> 80627e66b416369f6a4a2a5d2b69db44dd4fce43
